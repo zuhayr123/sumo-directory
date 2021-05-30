@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="new_demo.net.xml"/>
+        <route-files value="trips.trips.xml"/>
+    </input>
+
+    <time> 
+        <begin value = "0"/>
+        <end value = "530"/>
+        <step-length value = "0.4"/>
+    </time>
+</configuration>
