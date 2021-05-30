@@ -5,3 +5,7 @@ python3 randomTrips.py -n new_demo.net.xml -e 500
 python3 randomTrips.py -n new_demo.net.xml --trip-attributes="type=\"bus\"" --additional-file type.add.xml --edge-permission bus
 
 python3 randomTrips.py --vehicle-class emergency -n new_demo.net.xml
+
+
+info output
+ sumo -c demo.sumocfg  --tripinfo-output trip.xml
