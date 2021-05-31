@@ -3,7 +3,7 @@
   options: <doubleminus>vehicle-class bus -n new_demo.net.xml
 -->
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
-    <vType id="bus" vClass="emergency" emissionClass="HBEFA3/PC_G_EU4" guiShape="emergency" width="1.80" height="1.50" jmDriveAfterRedTime="1000"/>
+    <vType id="bus" vClass="emergency" emissionClass="HBEFA3/PC_G_EU4" guiShape="emergency" width="1.80" height="1.50" />
 
     <trip id="0" depart="0.00" from="-gneE33" to="-gneE42" type="bus"/>
     <trip id="1" depart="1.00" from="gneE51" to="gneE35" type="bus"/>
