@@ -1,0 +1,4 @@
+avg_duration_emergency_vehicle_in_emergency = 66.98360655737703
+avg_duration_no_emergency_vehicle_in_emergency =  89.62645502645502
+avg_duration_emergency_vehicle_in_no_emergency = 88.85245901639344
+avg_duration_no_emergency_vehicle_in_no_emergency = 89.86031746031745
